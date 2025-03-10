@@ -18,3 +18,6 @@ repo link: [https://github.com/sammysun0711/openvino.genai/tree/rag_sample/sampl
 ## Project 2: AI Speech
 This projects contains OV enabled ASR and TTS models, the C++ pipeline ready to be direct scaling. And customized modification for effective tuning in application.
 * [MeloTTS OV cpp pipeline](https://github.com/apinge/MeloTTS.cpp) | [blog](https://blog.openvino.ai/blog-posts/optimizing-melotts-for-aipc-deployment-with-openvino-a-lightweight-tts-solution)
+* [SenseVoice](https://github.com/apinge/SenseVoice.OpenVINO)
+
+
