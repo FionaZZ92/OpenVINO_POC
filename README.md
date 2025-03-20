@@ -30,6 +30,8 @@ This projects contains OV enabled ASR and TTS models, the C++ pipeline ready to 
 
 ## Project 4: Ollama-OV(not public yet)
 The Ollama-OV replace the llama.cpp but using OpenVINO GenAI as backend inference engine to accelerate inference performance on Intel XPU platform.
-[https://github.com/zhaohb/ollama_ov](https://github.com/zhaohb/ollama_ov)
+[Ollama-OV](https://github.com/zhaohb/ollama_ov)
 
+## Collaterals:
+AI Model crypto for client/edge: [https://blog.openvino.ai/blog-posts/use-encrypted-model-with-openvino](https://blog.openvino.ai/blog-posts/use-encrypted-model-with-openvino)
 
